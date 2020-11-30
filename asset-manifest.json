@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stola/static/css/main.ad6f036d.chunk.css",
+    "main.css": "/stola/static/css/main.205d40f5.chunk.css",
     "main.js": "/stola/static/js/main.ed227061.chunk.js",
     "main.js.map": "/stola/static/js/main.ed227061.chunk.js.map",
     "runtime-main.js": "/stola/static/js/runtime-main.5a9e0f72.js",
@@ -8,13 +8,13 @@
     "static/js/2.fa5ceee9.chunk.js": "/stola/static/js/2.fa5ceee9.chunk.js",
     "static/js/2.fa5ceee9.chunk.js.map": "/stola/static/js/2.fa5ceee9.chunk.js.map",
     "index.html": "/stola/index.html",
-    "static/css/main.ad6f036d.chunk.css.map": "/stola/static/css/main.ad6f036d.chunk.css.map",
+    "static/css/main.205d40f5.chunk.css.map": "/stola/static/css/main.205d40f5.chunk.css.map",
     "static/js/2.fa5ceee9.chunk.js.LICENSE.txt": "/stola/static/js/2.fa5ceee9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a9e0f72.js",
     "static/js/2.fa5ceee9.chunk.js",
-    "static/css/main.ad6f036d.chunk.css",
+    "static/css/main.205d40f5.chunk.css",
     "static/js/main.ed227061.chunk.js"
   ]
 }
