@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stola/static/css/main.ca7f8abf.chunk.css",
-    "main.js": "/stola/static/js/main.215be4c6.chunk.js",
-    "main.js.map": "/stola/static/js/main.215be4c6.chunk.js.map",
+    "main.js": "/stola/static/js/main.b376ac93.chunk.js",
+    "main.js.map": "/stola/static/js/main.b376ac93.chunk.js.map",
     "runtime-main.js": "/stola/static/js/runtime-main.5a9e0f72.js",
     "runtime-main.js.map": "/stola/static/js/runtime-main.5a9e0f72.js.map",
     "static/js/2.fa5ceee9.chunk.js": "/stola/static/js/2.fa5ceee9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5a9e0f72.js",
     "static/js/2.fa5ceee9.chunk.js",
     "static/css/main.ca7f8abf.chunk.css",
-    "static/js/main.215be4c6.chunk.js"
+    "static/js/main.b376ac93.chunk.js"
   ]
 }
